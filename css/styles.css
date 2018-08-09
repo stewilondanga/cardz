@@ -141,7 +141,7 @@ body {
   justify-content: center;
 }
 
-/*.favs button {
+.favs button {
   margin: 10px;
   width: 20%;
   background: transparent;
@@ -149,7 +149,7 @@ body {
   box-shadow: none;
 }
 
-.favs button:hover {
+/*.favs button:hover {
   -webkit-box-shadow: 0 0 50px rgba(255, 255, 255, 0.2);
   box-shadow: 0 0 50px rgba(255, 255, 255, 0.2);
 }
