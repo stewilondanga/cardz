@@ -117,7 +117,7 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/*.member button:hover {
+.member button:hover {
   background: rgba(255, 255, 255, 0.4);
   -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
@@ -165,13 +165,16 @@ body {
 /*.p2 {
   background: #f953c6;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #b91d73, #f953c6);
-  /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-gradient(linear, left top, right top, from(#b91d73), to(#f953c6));
-  background: -webkit-linear-gradient(left, #b91d73, #f953c6);
-  background: -o-linear-gradient(left, #b91d73, #f953c6);
-  background: linear-gradient(to right, #b91d73, #f953c6);
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(to right, #b91d73, #f953c6);
+/* Chrome 10-25, Safari 5.1-6 */
+
+background: -webkit-gradient(linear, left top, right top, from(#b91d73), to(#f953c6));
+background: -webkit-linear-gradient(left, #b91d73, #f953c6);
+background: -o-linear-gradient(left, #b91d73, #f953c6);
+background: linear-gradient(to right, #b91d73, #f953c6);
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 .p3 {
