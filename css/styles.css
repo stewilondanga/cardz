@@ -93,13 +93,13 @@ body {
   letter-spacing: 3px;
 }
 
-/*.member h2 {
+.member h2 {
   color: #fff;
   margin-top: 10px;
   font-weight: 100;
 }
 
-.member button {
+/*.member button {
   color: #fff;
   width: 40%;
   border: none;
