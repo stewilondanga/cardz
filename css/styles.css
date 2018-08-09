@@ -165,16 +165,13 @@ body {
 .p2 {
   background: #f953c6;
   /* fallback for old browsers */
-
-background: -webkit-linear-gradient(to right, #b91d73, #f953c6);
-/* Chrome 10-25, Safari 5.1-6 */
-
-background: -webkit-gradient(linear, left top, right top, from(#b91d73), to(#f953c6));
-background: -webkit-linear-gradient(left, #b91d73, #f953c6);
-background: -o-linear-gradient(left, #b91d73, #f953c6);
-background: linear-gradient(to right, #b91d73, #f953c6);
-/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  background: -webkit-linear-gradient(to right, #b91d73, #f953c6);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-gradient(linear, left top, right top, from(#b91d73), to(#f953c6));
+  background: -webkit-linear-gradient(left, #b91d73, #f953c6);
+  background: -o-linear-gradient(left, #b91d73, #f953c6);
+  background: linear-gradient(to right, #b91d73, #f953c6);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .p3 {
@@ -239,7 +236,7 @@ background: linear-gradient(to right, #b91d73, #f953c6);
 
 /*  FOLLOW*/
 
-/*.Follow {
+.Follow {
   background: url("../assets/image.jpeg")no-repeat center / contain;
   width: 50px;
   height: 50px;
@@ -252,7 +249,7 @@ background: linear-gradient(to right, #b91d73, #f953c6);
   animation: rotation 10s infinite linear;
 }
 
-@-webkit-keyframes rotation {
+/*@-webkit-keyframes rotation {
   from {
     -webkit-transform: rotate(0deg);
   }
