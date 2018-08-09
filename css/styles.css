@@ -64,13 +64,13 @@ body {
 
 /* ACTORS | SINGERS |  */
 
-/*.member {
+.member {
   width: 100%;
   text-align: center;
   margin-top: 40px;
 }
 
-.member img {
+/*.member img {
   height: 180px;
   width: 180px;
   border-radius: 100px;
