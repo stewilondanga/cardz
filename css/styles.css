@@ -42,7 +42,7 @@ body {
 
 /* All boxs position width and height  */
 
-/*.box {
+.box {
   width: 345px;
   height: 540px;
   margin: 10px;
@@ -54,7 +54,7 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
 }
 
-.box:hover {
+/*.box:hover {
   font-size: 19px;
   -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
