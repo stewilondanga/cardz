@@ -249,7 +249,7 @@ body {
   animation: rotation 10s infinite linear;
 }
 
-/*@-webkit-keyframes rotation {
+@-webkit-keyframes rotation {
   from {
     -webkit-transform: rotate(0deg);
   }
@@ -258,7 +258,7 @@ body {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
