@@ -25,7 +25,7 @@ body {
 
 /* MAIN CONTENT */
 
-/*.container {
+.container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -42,7 +42,7 @@ body {
 
 /* All boxs position width and height  */
 
-.box {
+/*.box {
   width: 345px;
   height: 540px;
   margin: 10px;
