@@ -127,7 +127,7 @@ body {
 
 /* FAVS START */
 
-/*.favs {
+.favs {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -141,7 +141,7 @@ body {
   justify-content: center;
 }
 
-.favs button {
+/*.favs button {
   margin: 10px;
   width: 20%;
   background: transparent;
