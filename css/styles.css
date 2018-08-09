@@ -70,7 +70,7 @@ body {
   margin-top: 40px;
 }
 
-/*.member img {
+.member img {
   height: 180px;
   width: 180px;
   border-radius: 100px;
@@ -81,7 +81,7 @@ body {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.4);
 }
 
-.member img:hover {
+/*.member img:hover {
   -webkit-box-shadow: 0 0 50px rgba(255, 255, 255, 0.2);
   box-shadow: 0 0 50px rgba(255, 255, 255, 0.2);
 }
@@ -127,7 +127,7 @@ body {
 
 /* FAVS START */
 
-.favs {
+/*.favs {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
