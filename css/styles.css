@@ -86,14 +86,14 @@ body {
   box-shadow: 0 0 50px rgba(255, 255, 255, 0.2);
 }
 
-/*.member h1 {
+.member h1 {
   color: #fff;
   font-weight: 300;
   font-size: 29px;
   letter-spacing: 3px;
 }
 
-.member h2 {
+/*.member h2 {
   color: #fff;
   margin-top: 10px;
   font-weight: 100;
